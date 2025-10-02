@@ -1,1 +1,1 @@
-# Sherlock-and-Squares-algo
+# Sherlock-and-Squares-algo The function calculates the smallest integer whose square is at least a and the largest integer whose square is at most b. The number of perfect squares between a and b is simply the difference between these two integers plus one.
